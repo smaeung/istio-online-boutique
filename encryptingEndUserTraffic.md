@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/528170/122650503-38de1280-d0e8-11eb-81db-d10f5bf356e1.png)
+
+
+
 Create a Kubernetes secret with TLS credentials. 
 
 1. Create the self-signed root certificate that will be used to sign the TLS certificate for ingress gateway: 
