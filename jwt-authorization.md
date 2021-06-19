@@ -16,6 +16,6 @@ spec:
     to:
     - operation:
         paths: ["/cart"]
-        ports: ["443"]
+        ports: ["8443"]
 ---
 ```
